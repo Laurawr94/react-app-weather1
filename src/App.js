@@ -3,9 +3,7 @@ import "./App.css";
 export default function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Weather App</h1>
-      </header>
+      <h1>Weather App</h1>
       <footer>
         <a
           href="https://github.com/Laurawr94/react-app-weather1"
