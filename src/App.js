@@ -8,7 +8,7 @@ export default function App() {
         <a
           href="https://github.com/Laurawr94/react-app-weather1"
           target="_blank"
-          rel="noopener"
+          rel="noreferrer"
         >
           Open-sourced on Github
         </a>
@@ -16,7 +16,7 @@ export default function App() {
         <a
           href="https://www.linkedin.com/in/laura-doherty-6548a766/"
           target="_blank"
-          rel="noopener"
+          rel="noreferrer"
         >
           Laura Doherty
         </a>
