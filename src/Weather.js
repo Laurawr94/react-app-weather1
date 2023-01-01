@@ -18,6 +18,7 @@ export default function Weather(props) {
       description: response.data.weather[0].description,
       iconUrl: `https://ssl.gstatic.com/onebox/weather/64/cloudy.png`,
       date: new Date(response.data.dt * 1000),
+      name: response.data.name,
     });
   }
 
