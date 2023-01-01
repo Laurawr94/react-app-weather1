@@ -22,6 +22,14 @@ export default function App() {
           >
             Laura Doherty
           </a>
+          and hosted by{" "}
+          <a
+            href="https://zingy-buttercream-4ec62e.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Netlify
+          </a>
         </footer>
       </div>
     </div>
